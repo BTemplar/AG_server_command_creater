@@ -1,6 +1,7 @@
 RUS
 
 Программа для массового изменения настроек через серверное ПО АвтоГраф, для терминалов защищенными паролями.
+Язык написания Python.
 
 На что стоит обратить внимание:
 1. Создание команд подчиняется структуре указанной в руководстве пользователя по созданию комманд.
@@ -12,6 +13,7 @@ RUS
 ENG
 
 A program for mass changing settings through the server software AutoGraph, password-protected for terminals.
+Python writing language.
 
 What you should pay attention to:
 1. The creation of commands is subject to the structure specified in the user manual for creating commands.
